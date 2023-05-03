@@ -1,0 +1,14 @@
+body {
+    background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(231, 110, 197, 1) 0%, rgba(170, 223, 233, 1) 47%, rgba(4, 206, 250, 1) 94%);
+
+}
+
+.btn {
+    border-radius: 20px;
+    width: 200px;
+    height: 40px;
+    border: 2px solid black;
+    cursor: pointer;
+    margin-top: 200px;
+}
